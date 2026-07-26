@@ -3,7 +3,7 @@ import { Mail, Copy, Check, ArrowUpRight } from 'lucide-react'
 
 export default function ContactSection() {
   const [copied, setCopied] = useState(false)
-  const email = 'contact@orbalabs.io'
+  const email = 'contact@orbalabs.xyz'
 
   const handleCopy = () => {
     navigator.clipboard.writeText(email)
