@@ -35,7 +35,7 @@ export default function LegalModal({ isOpen, type, onClose }: LegalModalProps) {
             </p>
             <h4 className="font-bold text-slate-900 text-base pt-2">1. Information Collection</h4>
             <p>
-              We only collect information directly submitted by you when contacting us via email or using our contact form (such as your name and email address). We do not track personal identifying data without consent.
+              We only collect information directly submitted by you when contacting us via email (such as your name and email address). We do not track personal identifying data without consent.
             </p>
             <h4 className="font-bold text-slate-900 text-base pt-2">2. Use of Information</h4>
             <p>
@@ -44,8 +44,8 @@ export default function LegalModal({ isOpen, type, onClose }: LegalModalProps) {
             <h4 className="font-bold text-slate-900 text-base pt-2">3. Contact Us</h4>
             <p>
               If you have any questions regarding privacy, please contact us at{' '}
-              <a href="mailto:contact@orbalabs.io" className="text-blue-600 font-semibold underline">
-                contact@orbalabs.io
+              <a href="mailto:contact@orbalabs.xyz" className="text-blue-600 font-semibold underline">
+                contact@orbalabs.xyz
               </a>.
             </p>
           </div>
@@ -68,8 +68,8 @@ export default function LegalModal({ isOpen, type, onClose }: LegalModalProps) {
             <h4 className="font-bold text-slate-900 text-base pt-2">3. Inquiries</h4>
             <p>
               For inquiries regarding software licenses or partnerships, reach out directly to{' '}
-              <a href="mailto:contact@orbalabs.io" className="text-blue-600 font-semibold underline">
-                contact@orbalabs.io
+              <a href="mailto:contact@orbalabs.xyz" className="text-blue-600 font-semibold underline">
+                contact@orbalabs.xyz
               </a>.
             </p>
           </div>
